@@ -2,13 +2,14 @@
 <h1 align="center">Hi 👋, I'm Joan</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joanmagam" alt="joanmagam" /></a> </p>
 
 - 🔭 I’m currently working on **personal projects**
 
 - 🌱 I’m currently learning **by doing full stack projects**
 
 - ⚡ Fun fact **I told my computer I needed a break, but it just gave me a 'break;' now I have to debug both my code and my life. XD**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joanmagam" alt="joanmagam" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
